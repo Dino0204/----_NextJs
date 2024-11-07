@@ -9,6 +9,51 @@
       "id": "2",
       "title": "css",
       "body": "css is ..."
+    },
+    {
+      "id": "7d91",
+      "title": "javaScript",
+      "body": "javaScript is ..."
+    },
+    {
+      "id": "a2da",
+      "title": "React",
+      "body": "React is ..."
+    },
+    {
+      "id": "31d5",
+      "title": "NextJs",
+      "body": "Next is ..."
+    },
+    {
+      "id": "74d0",
+      "title": "VueJs",
+      "body": "Vue is ..."
+    },
+    {
+      "id": "5369",
+      "title": "SvelteJs",
+      "body": "Svelte is ..."
+    },
+    {
+      "id": "786c",
+      "title": "AngularJs",
+      "body": "Angular is ..."
+    },
+    {
+      "id": "32cb",
+      "title": "TypeScript",
+      "body": "Ts is ..."
+    },
+    {
+      "id": "a386",
+      "title": "Vite",
+      "body": "Vite is ..."
+    },
+    {
+      "id": "222a",
+      "title": "Next",
+      "body": "Next is ..."
     }
   ],
   "posts": [
